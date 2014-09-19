@@ -3,4 +3,4 @@ Blackjack
 
 simple blackjack with AI
 
-http://andy-blackjack.herokuapp.com/
+You can play it here at: abaek.github.io/blackjack
